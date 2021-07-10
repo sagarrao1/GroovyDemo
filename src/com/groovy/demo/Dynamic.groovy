@@ -14,7 +14,7 @@ println one.getClass()
 // language features
 one="Sagar"
 // it anables doc typing, we can assign int type to string
-it walks like duck, talks like duck , it must be duck 
+//it walks like duck, talks like duck , it must be duck 
 
 println one
 println one.getClass()
